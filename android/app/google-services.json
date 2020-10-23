@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "466580204920",
+    "firebase_url": "https://suigames-9c698.firebaseio.com",
+    "project_id": "suigames-9c698",
+    "storage_bucket": "suigames-9c698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466580204920:android:9757f5c257ccffe30dac8d",
+        "android_client_info": {
+          "package_name": "br.com.sui_games.sui_games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466580204920-8t4uc7cmlgr28tpei9ngfon6an7bartj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4-c_lV-s0N_49wuS7Rw5yA-4J3l4UgXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466580204920-8t4uc7cmlgr28tpei9ngfon6an7bartj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
